@@ -1,0 +1,7 @@
+screenshots/
+.pytest_cache
+venv
+geckodriver.log
+__pycache__
+.idea
+assets
