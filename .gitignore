@@ -1,7 +1,12 @@
-screenshots/
+screenshots/**.png
 .pytest_cache
 venv
 geckodriver.log
 __pycache__
 .idea
 assets
+result.html
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
