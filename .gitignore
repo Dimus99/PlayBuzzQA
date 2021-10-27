@@ -1,7 +1,8 @@
-screenshots/
+screenshots/**.png
 .pytest_cache
 venv
 geckodriver.log
 __pycache__
 .idea
 assets
+result.html
